@@ -35,11 +35,7 @@
 
 
 
-## FAQ
+## [FAQ](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/FAQ.md)
 
-- 场景1:场景描述场景描述场景描述场景描述场景描述场景描述场景描述场景描述
-  - [问题描述](相对链接)
-- 场景2:场景描述场景描述场景描述场景描述场景描述场景描述场景描述场景描述
-  - [问题描述](相对链接)
 
-## 词汇表
+## [词汇表](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/_glossary.md)

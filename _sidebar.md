@@ -15,9 +15,9 @@
         * [新建告警屏蔽](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/use/Operation%20guide/Alarm%20management/Create%20new%20alarm%20shield.md)
    * 操作指南
         * [监控查询](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Monitoring%20query)
-        * [资源管理](/uhost/introduction/uhost/type_new)
-        * [告警管理](/uhost/introduction/uhost/select_type)
-        * [通知人管理](/uhost/introduction/uhost/lifecycle)
+        * [资源管理](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Alarm%20management)
+        * [告警管理](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Alarm%20management)
+        * [通知人管理](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Notifier%20management)
 
 * 开发
    * [API参考](相对链接)

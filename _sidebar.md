@@ -21,7 +21,6 @@
 
 * 开发
    * [API参考](相对链接)
-* FAQ
-   * 场景相关 <!-- 平台已支持三级及以下目录收起展开，为确保点击区域充分，包含三级目录的二级标题请勿添加链接 -->
-      * [问题描述](相对链接)
+
+ [FAQ](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/FAQ.md)
 * [词汇表](/仓库名称/_glossary.md)

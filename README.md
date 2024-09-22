@@ -17,9 +17,8 @@
 
 ## 使用
 
-* [快速入门](相对链接)
+* [快速入门](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Quick%20start)
 * [操作指南](https://github.com/UCloudDoc-Team/cloudwatch/tree/743a02eb2a833f5185e0b17e1f0d877e10c8ca08/use/Operation%20guide)
-* [监控指标索引](相对链接)
 
 
 

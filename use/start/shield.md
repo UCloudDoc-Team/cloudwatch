@@ -7,7 +7,7 @@
 1. 登录云监控控制台。
 2. 在顶部导航栏选择告警管理  > 告警屏蔽，进入告警屏蔽列表页。
 3. 在告警屏蔽页面，选择项目，单击新建创建告警屏蔽。
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E5%B1%8F%E8%94%BD1.png)
+![Image text](images/新建告警屏蔽1.png)
 
 5. 在新建告警屏蔽页面，根据界面提示配置参数。
 6. 配置参数如下：
@@ -24,5 +24,5 @@
 
 
 7. 在新建告警屏蔽页面右下角，单机提交，完成告警屏蔽创建。
-8. 
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E5%B1%8F%E8%94%BD2.png)
+   
+![Image text](images/新建告警屏蔽2.png)

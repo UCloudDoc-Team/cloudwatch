@@ -17,7 +17,7 @@
         * [监控查询](/cloudwatch/use/guide/monitoring.md)
         * [资源管理](/cloudwatch/use/guide/resource.md)
         * [告警管理](/cloudwatch/use/guide/alarm.md)
-        * [通知人管理](/cloudwatch/)
+        * [通知人管理](/cloudwatch/use/guide/notify.md)
 
 * 开发
    * [API参考](相对链接)

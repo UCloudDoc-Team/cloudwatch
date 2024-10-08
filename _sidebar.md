@@ -8,11 +8,11 @@
    * [应用场景](/cloudwatch/introduction/use.md)
 * 使用
    * 快速入门
-        * [查看监控看图](/cloudwatch/)
-        * [创建资源分组](/cloudwatch/)
-        * [查看告警记录](/cloudwatch/)
-        * [新建告警策略](/cloudwatch/)
-        * [新建告警屏蔽](/cloudwatch/)
+        * [查看监控看图](/cloudwatch/use/start/pictures.md)
+        * [创建资源分组](/cloudwatch/use/start/groups.md)
+        * [查看告警记录](/cloudwatch/use/start/records.md)
+        * [新建告警策略](/cloudwatch/use/start/policy.md)
+        * [新建告警屏蔽](/cloudwatch/use/start/shield.md)
    * 操作指南
         * [监控查询](/cloudwatch/)
         * [资源管理](/cloudwatch/)

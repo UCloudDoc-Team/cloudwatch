@@ -58,7 +58,6 @@
 2. 在顶部导航栏，选择产品监控 。
 3. 在产品监控页面，单击目标云产品。
 4. 在目标云产品的监控页面，单击目标资源对应操作列的详情。
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/3.jpg.png)
 ![Image text](images/3.jpg.png)
 
 6. 在资源详情页查看该云产品中指定资源的监控看图。

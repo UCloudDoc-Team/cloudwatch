@@ -8,30 +8,32 @@
 
 ## 了解
 
-* [什么是云监控](https://github.com/UCloudDoc-Team/cloudwatch/blob/ed2a82c967a783d6463f78810b4cd465658f3cdc/introduction/intro.md)
-* [功能特性](https://github.com/UCloudDoc-Team/cloudwatch/blob/743a02eb2a833f5185e0b17e1f0d877e10c8ca08/introduction/function.md)
-* [产品优势](https://github.com/UCloudDoc-Team/cloudwatch/blob/743a02eb2a833f5185e0b17e1f0d877e10c8ca08/introduction/advantage.md)
-* [应用场景](https://github.com/UCloudDoc-Team/cloudwatch/blob/743a02eb2a833f5185e0b17e1f0d877e10c8ca08/introduction/use.md)
-
+   * [什么是云监控](/cloudwatch/introduction/intro.md)
+   * [功能特性](/cloudwatch/introduction/function.md)
+   * [产品优势](/cloudwatch/introduction/advantage.md)
+   * [应用场景](/cloudwatch/introduction/use.md)
 
 
 ## 使用
 
-* [快速入门](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Quick%20start)
-* [操作指南](https://github.com/UCloudDoc-Team/cloudwatch/tree/743a02eb2a833f5185e0b17e1f0d877e10c8ca08/use/Operation%20guide)
-
-
+   * 快速入门
+        * [查看监控看图](/cloudwatch/use/start/pictures.md)
+        * [创建资源分组](/cloudwatch/use/start/groups.md)
+        * [查看告警记录](/cloudwatch/use/start/records.md)
+        * [新建告警策略](/cloudwatch/use/start/policy.md)
+        * [新建告警屏蔽](/cloudwatch/use/start/shield.md)
+   * 操作指南
+        * [监控查询](/cloudwatch/use/guide/monitoring.md)
+        * [资源管理](/cloudwatch/use/guide/resource.md)
+        * [告警管理](/cloudwatch/use/guide/alarm.md)
+        * [通知人管理](/cloudwatch/use/guide/notify.md)
 
 ## 开发
 
 * API参考
 
 
+[FAQ](/cloudwatch/FAQ.md)
 
-
-## [FAQ](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/FAQ.md)
-
-
-## [词汇表](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/_glossary.md)
-
+[词汇表](/cloudwatch/_glossary.md)
 

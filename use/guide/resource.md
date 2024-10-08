@@ -31,8 +31,8 @@
 2. 在顶部导航栏选择资源分组 ，进入资源分组列表页。
 3. 在资源分组页面，选择需要修改的资源组，单击更多 > 复制。
 
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/12.png)
-![Image text](images/设置通知方式与通知对象.PNG)
+
+![Image text](images/12.png)
 
 4. 完成资源组复制。
 

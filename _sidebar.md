@@ -19,8 +19,6 @@
         * [告警管理](/cloudwatch/use/guide/alarm.md)
         * [通知人管理](/cloudwatch/use/guide/notify.md)
 
-* 开发
-   * [API参考](相对链接)
 
 * [FAQ](/cloudwatch/FAQ.md)
 

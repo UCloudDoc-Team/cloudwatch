@@ -24,5 +24,5 @@
 
 * [FAQ](/cloudwatch/FAQ.md)
 
-* [词汇表](/仓库名称/_glossary.md)
+* [词汇表](_/cloudwatch/glossary.md)
       

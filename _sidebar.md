@@ -18,9 +18,6 @@
         * [资源管理](/cloudwatch/use/guide/resource.md)
         * [告警管理](/cloudwatch/use/guide/alarm.md)
         * [通知人管理](/cloudwatch/use/guide/notify.md)
-
-
 * [FAQ](/cloudwatch/FAQ.md)
-
 * [词汇表](/cloudwatch/_glossary.md)
       

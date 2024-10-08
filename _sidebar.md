@@ -14,7 +14,7 @@
         * [新建告警策略](/cloudwatch/use/start/policy.md)
         * [新建告警屏蔽](/cloudwatch/use/start/shield.md)
    * 操作指南
-        * [监控查询](/cloudwatch/)
+        * [监控查询](/cloudwatch/use/guide/monitoring.md)
         * [资源管理](/cloudwatch/)
         * [告警管理](/cloudwatch/)
         * [通知人管理](/cloudwatch/)

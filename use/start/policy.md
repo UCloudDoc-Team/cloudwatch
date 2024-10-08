@@ -8,11 +8,11 @@
 2. 在顶部导航栏选择告警管理  > 告警策略，进入告警策略列表页。
 3. 在告警策略页面，选择项目，单击新建，创建告警策略。
    
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E7%AD%96%E7%95%A51.png)
+![Image text](images/新建告警策略1.png)
 
 5. 在新建告警策略页面，根据界面提示配置参数。
 
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E7%AD%96%E7%95%A52.png)
+![Image text](images/新建告警策略2.png)
 
 6. 配置参数如下：
 
@@ -33,4 +33,4 @@
 
 7. 在新建告警策略页面右下角，单机提交，完成告警策略创建。
 
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E7%AD%96%E7%95%A53.png)
+![Image text](images/新建告警策略3.png)

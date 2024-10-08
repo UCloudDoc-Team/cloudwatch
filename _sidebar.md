@@ -24,5 +24,5 @@
 
 * [FAQ](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/_glossary.md)
 
-* [词汇表](/仓库名称/_glossary.md))
+* [词汇表](/仓库名称/_glossary.md)
       

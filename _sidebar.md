@@ -8,16 +8,16 @@
    * [应用场景](/cloudwatch/introduction/use.md)
 * 使用
    * 快速入门
-        * [查看监控看图](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/use/Operation%20guide/Monitoring%20query/View%20surveillance%20pictures.md)
-        * [创建资源分组](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/use/Operation%20guide/Resource%20management/Create%20resource%20groups.md)
-        * [查看告警记录](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/use/Operation%20guide/Alarm%20management/View%20alarm%20records.md)
-        * [新建告警策略](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/use/Operation%20guide/Alarm%20management/Create%20a%20new%20alarm%20policy.md)
-        * [新建告警屏蔽](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/use/Operation%20guide/Alarm%20management/Create%20new%20alarm%20shield.md)
+        * [查看监控看图](/cloudwatch/)
+        * [创建资源分组](/cloudwatch/)
+        * [查看告警记录](/cloudwatch/)
+        * [新建告警策略](/cloudwatch/)
+        * [新建告警屏蔽](/cloudwatch/)
    * 操作指南
-        * [监控查询](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Monitoring%20query)
-        * [资源管理](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Alarm%20management)
-        * [告警管理](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Alarm%20management)
-        * [通知人管理](https://github.com/UCloudDoc-Team/cloudwatch/tree/master/use/Operation%20guide/Notifier%20management)
+        * [监控查询](/cloudwatch/)
+        * [资源管理](/cloudwatch/)
+        * [告警管理](/cloudwatch/)
+        * [通知人管理](/cloudwatch/)
 
 * 开发
    * [API参考](相对链接)

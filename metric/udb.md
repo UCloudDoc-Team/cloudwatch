@@ -2,7 +2,7 @@
 
 |产品中文名称|产品唯一标识|指标唯一标识|指标中文名称|单位|备注|
 |:----|:----|:----|:----|:----|:----|
-|云数据库|udb|cloudwatch_dbspaceusage|磁盘使用率|%| |
+|云数据库|udb|udb_dbspaceusage|磁盘使用率|%| |
 |云数据库|udb|udb_db_cpu|CPU使用率|%| |
 |云数据库|udb|udb_db_mem|内存大小|MB| |
 |云数据库|udb|udb_db_conns|连接数|个| |

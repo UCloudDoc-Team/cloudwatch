@@ -32,7 +32,7 @@
         * [分布式版Redis](/cloudwatch/metric/umem.md)
         * [物理云主机](/cloudwatch/metric/uphost.md)
         * [对象存储](/cloudwatch/metric/us3.md)
-        * [云内存Redis](/cloudwatch/metric/uredis.md)
+        * [主备版Redis](/cloudwatch/metric/uredis.md)
         * [混合云-交换机端口](/cloudwatch/metric/hybridcloudport.md)
         * [托管云-交换机端口总流量](/cloudwatch/metric/hybridcloudportsum.md)
         * [托管Hadoop集群](/cloudwatch/metric/uhadoop.md)

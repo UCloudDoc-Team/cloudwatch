@@ -51,7 +51,7 @@
         * [ES集群](/cloudwatch/metric/ues.md)
         * [ES集群节点](/cloudwatch/metric/uesnode.md)
         * [混合云专线](/cloudwatch/metric/connect.md)
-        * [云内存Memcache](/cloudwatch/metric/umemcache.md)
+        * [单机版Memcache](/cloudwatch/metric/umemcache.md)
         * [VPN隧道](/cloudwatch/metric/vpntunnel.md)
         * [分布式NewSQL数据库TiDB](/cloudwatch/metric/tidb.md)
         * [全球动态加速](/cloudwatch/metric/pathx.md)

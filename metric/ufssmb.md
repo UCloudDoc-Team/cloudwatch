@@ -2,4 +2,4 @@
 
 |产品中文名称|产品唯一标识|指标唯一标识|指标中文名称|单位|备注|
 |:----|:----|:----|:----|:----|:----|
-|SMB文件系统|ufssmb|ufssmb_smb_disk_usage|磁盘使用率|GB| |
+|SMB文件系统|ufssmb|ufssmb_smb_disk_usage|磁盘使用量|GB| |

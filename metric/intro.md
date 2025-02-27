@@ -8,7 +8,7 @@
         * [云数据库](/cloudwatch/metric/udb.md)
         * [云分发](/cloudwatch/metric/ucdn.md)
         * [外网弹性IP](/cloudwatch/metric/eip.md)
-        * [云内存存储](/cloudwatch/metric/umem.md)
+        * [分布式版Redis](/cloudwatch/metric/umem.md)
         * [物理云主机](/cloudwatch/metric/uphost.md)
         * [对象存储](/cloudwatch/metric/us3.md)
         * [云内存Redis](/cloudwatch/metric/uredis.md)

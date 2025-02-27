@@ -10,4 +10,3 @@
 |云分发|ucdn|ucdn_cdn_returncode5xxratio|返回码5xx占比|%| |
 |云分发|ucdn|ucdn_return_to_source_5xx_status_code|回源5xx状态码|%| |
 |云分发|ucdn|ucdn_return_to_source_4xx_status_code|回源4xx状态码|%| |
-|云分发|ucdn|ucdn_total_bandwidth|UCDN账户总带宽|bps| |

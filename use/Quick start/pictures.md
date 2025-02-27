@@ -20,4 +20,5 @@
 - 资源对象：根据所选择的资源类型+项目，出现其下的资源列表，支持搜索选择【多选】。（最多选择10个资源）
 - 手动刷新：点击手动刷新按钮，可以刷新最新数据。
 4. 在监控看图页面查看该监控指标的监控走势图
+  
 ![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/1111.png)

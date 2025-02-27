@@ -67,7 +67,6 @@
         * [SMB文件系统](/cloudwatch/metric/ufssmb.md)
         * [云数据仓库Uclickhouse](/cloudwatch/metric/uclickhouse.md)
         * [云数据仓库UClickhouse节点](/cloudwatch/metric/uclickhousenode.md)
-        * [云极高性能计算](/cloudwatch/metric/epc.md)
         * [Kafka消费组](/cloudwatch/metric/kafkagroup.md)
         * [云数据库 UDB MongoDB](/cloudwatch/metric/umongodbmember.md)
         * [云数据库读写分离中间件](/cloudwatch/metric/udbproxymember.md)

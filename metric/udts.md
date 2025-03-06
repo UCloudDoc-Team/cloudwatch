@@ -4,7 +4,6 @@
 |:----|:----|:----|:----|:----|:----|
 |数据传输服务|udts|udts_sync_remaining_binlogsize|剩余数据量大小|Byte| |
 |数据传输服务|udts|udts_sync_estimate_remaining_seconds|预计剩余时间|s| |
-|数据传输服务|udts|udts_sync_remaining_data_change|剩余数据变化量|无单位| |
 |数据传输服务|udts|udts_sync_syncing_delay_time|同步延迟时间|s| |
 |数据传输服务|udts|udts_source_data_size|源库拉取数据量|Bps| |
 |数据传输服务|udts|udts_source_data_count|源库拉取数据行数|个/s| |

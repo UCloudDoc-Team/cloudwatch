@@ -31,4 +31,4 @@
 
 5. 在资源详情页查看该云产品中指定资源的监控看图。
 ![Image text](images/4.png)
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/4.jpg.png)
+![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/4.png)

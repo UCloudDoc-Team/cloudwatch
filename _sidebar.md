@@ -12,7 +12,8 @@
    * 产品计费
         * [计费模式](/cloudwatch/introduction/billway.md)
         *  计费服务
-                * [查看监控看图](/cloudwatch/use/start/pictures.md)
+            * [查看监控看图](/cloudwatch/use/start/pictures.md)
+
 * 使用
    * 快速入门
         * [查看监控看图](/cloudwatch/use/start/pictures.md)

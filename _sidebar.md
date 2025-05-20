@@ -16,6 +16,7 @@
 
 * 使用
    * 快速入门
+        * [Dashboard](/cloudwatch/use/start/dashboard.md)
         * [查看监控看图](/cloudwatch/use/start/pictures.md)
         * [创建资源分组](/cloudwatch/use/start/groups.md)
         * [查看告警记录](/cloudwatch/use/start/records.md)

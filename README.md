@@ -15,7 +15,10 @@
    * [功能特性](/cloudwatch/introduction/function.md)
    * [产品优势](/cloudwatch/introduction/advantage.md)
    * [应用场景](/cloudwatch/introduction/use.md)
-
+   * 产品计费
+        * [计费模式](/cloudwatch/introduction/billway.md)
+        * 快速入门
+            * [云监控短信服务](/cloudwatch/introduction/snsbillservice.md)
 
 ## 使用
 

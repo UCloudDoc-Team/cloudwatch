@@ -30,7 +30,7 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 
 进入安装包存放目录，找到下载的安装包：  `uboltagent-v1.0.0-windows-amd64.exe`，双击该文件开始安装过程，按照安装向导提示完成安装。
 
-![](D:\Documents\GitHub\cloudwatch\images\Windows安装向导-1.PNG)
+![](images\Windows安装向导-1.PNG)
 
 ![](D:\Documents\GitHub\cloudwatch\images\Windows安装向导-2.PNG)
 

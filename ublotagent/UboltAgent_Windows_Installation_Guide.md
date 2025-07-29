@@ -62,13 +62,13 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 
 ##### 方法三：查看云监控状态
 
-等待约 1 分钟，进入 控制台：资源监控-> 产品监控 -> 点击资源详情，确认监控数据是否上报。
+等待约 5 分钟，进入 控制台：资源监控-> 产品监控 -> 点击资源详情，确认监控数据是否上报。
 
 ![](images\控制台确认Windows数据上报.png)
 
 ---
 
-### 卸载步骤
+## Windows 卸载
 
 1. 打开控制面板，点击“卸载程序”。
 

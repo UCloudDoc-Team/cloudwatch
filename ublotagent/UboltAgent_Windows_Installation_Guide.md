@@ -10,11 +10,9 @@ UboltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
 ### 准备工作
 
 - 安装和卸载时，都需要使用具有“管理员”权限的账户（如 Administrator 用户）登录 Windows 云主机。
-- 
-- **注意：**
-  - 安装新版本 UboltAgent，会卸载历史安装的版本。
-  - 不同操作系统支持版本请参考 CPU 云主机镜像列表。
-
+> **注意：**
+>安装新版本 UboltAgent，会卸载历史安装的版本。
+>不同操作系统支持版本请参考 CPU 云主机镜像列表。
 ---
 
 ### 安装步骤
@@ -38,7 +36,7 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 
 1. 使用快捷键 `Win + R` 打开“运行”对话框，输入 `services.msc` 并回车。
 2. 或通过：开始菜单 -> Windows 管理工具 -> 服务，打开服务管理器。
-3. 找到名为 **UCloudUboltAgent** 的服务，确认其状态为“正在运行”。
+3. 找到名为 `UCloudUboltAgent`  的服务，确认其状态为“正在运行”。
 
 ##### 方法二：查看日志文件
 
@@ -53,13 +51,10 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 ### 卸载步骤
 
 1. 打开控制面板，点击“卸载程序”。
-
-   
-
 2. 找到 **UCloudBoltAgent** 程序，点击“卸载”，完成卸载操作。
 
 ---
 
 ## 注意事项
-<!--“!> 重要提示：在执行任何安装或卸载操作之前，请确保已备份重要数据。如遇问题或错误消息，请参考官方文档或联系技术支持。”-->
+!> 重要提示：在执行任何安装或卸载操作之前，请确保已备份重要数据。如遇问题或错误消息，请参考官方文档或联系技术支持。
 

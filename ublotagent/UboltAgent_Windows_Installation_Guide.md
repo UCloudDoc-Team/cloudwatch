@@ -32,34 +32,55 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 
 ![](images\Windows安装向导-1.PNG)
 
-![](D:\Documents\GitHub\cloudwatch\images\Windows安装向导-2.PNG)
+![](images\Windows安装向导-2.PNG)
 
-![](D:\Documents\GitHub\cloudwatch\images\Windows安装向导-3.PNG)
+![](images\Windows安装向导-3.PNG)
 
-![](D:\Documents\GitHub\cloudwatch\images\Windows安装向导-4.PNG)
+![](images\Windows安装向导-4.PNG)
 
 #### 确认安装状态
 
 ##### 方法一：使用服务管理器
 
 1. 使用快捷键 `Win + R` 打开“运行”对话框，输入 `services.msc` 并回车。
+
+   ![](images\打开服务管理器1.png)
+
 2. 或通过：开始菜单 -> Windows 管理工具 -> 服务，打开服务管理器。
+
+   ![](images\打开服务管理器2.png)
+
 3. 找到名为 `UCloudUboltAgent`  的服务，确认其状态为“正在运行”。
+
+   ![](images\服务管理器找到服务.png)
 
 ##### 方法二：查看日志文件
 
 进入 Agent 的安装目录，查看 `log` 目录下的日志文件，以获取更详细的运行状态信息。
 
+![](images\Windows查看log日志文件.png)
+
 ##### 方法三：查看云监控状态
 
 等待约 1 分钟，进入 控制台：资源监控-> 产品监控 -> 点击资源详情，确认监控数据是否上报。
+
+![](images\控制台确认Windows数据上报.png)
 
 ---
 
 ### 卸载步骤
 
 1. 打开控制面板，点击“卸载程序”。
+
+   ![](images\Windows卸载步骤1.png)
+
 2. 找到 **UCloudBoltAgent** 程序，点击“卸载”，完成卸载操作。
+
+   ![](images\Windows卸载步骤2.png)
+
+   ![](images\Windows卸载步骤3.png)
+
+   ![](images\Windows卸载步骤4.png)
 
 ---
 

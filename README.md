@@ -39,10 +39,6 @@
 * 监控指标索引
   * [产品概览](/cloudwatch/metric/intro.md)
 
-## 监控代理
-* 安装文档
-  * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
-
 [FAQ](/cloudwatch/FAQ.md)
 
 [词汇表](/cloudwatch/_glossary.md)

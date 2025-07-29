@@ -1,5 +1,6 @@
+
 * [概览](/cloudwatch/README.md)
-* 动态与公告   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
+* 动态与公告 
   
   * [产品公告](/cloudwatch/notice/announcement.md)
   * [产品更新动态](/cloudwatch/notice/Renewal.md)

@@ -39,10 +39,12 @@
 * 监控指标索引
   * [产品概览](/cloudwatch/metric/intro.md)
 
-## 监控代理
-* 安装文档
-  * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
-  * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
+## 监控代理（UboltAgent）
+* Agent安装指南
+  * [UboltAgent Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
+  * [UBoltAgent Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
+* [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
+* 
 
 [FAQ](/cloudwatch/FAQ.md)
 

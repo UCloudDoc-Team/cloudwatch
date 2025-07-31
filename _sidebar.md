@@ -98,7 +98,7 @@
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
 * 监控代理（UboltAgent）
   * 安装指南
-    * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
+    * ; [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
     * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
   * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
   * 支持的机型列表

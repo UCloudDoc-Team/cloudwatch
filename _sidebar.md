@@ -1,11 +1,11 @@
 
 * [概览](/cloudwatch/README.md)
 * 动态与公告 
-  
+
   * [产品公告](/cloudwatch/notice/announcement.md)
   * [产品更新动态](/cloudwatch/notice/Renewal.md)
 * 了解   
-  
+
   * [什么是云监控](/cloudwatch/introduction/intro.md)
   * [功能特性](/cloudwatch/introduction/function.md)
   * [产品优势](/cloudwatch/introduction/advantage.md)
@@ -14,7 +14,7 @@
     * [计费概述](/cloudwatch/introduction/billway.md)
     * [产品定价](/cloudwatch/introduction/snsbillservice.md)
 * 使用
-  
+
   * 快速入门
     * [查看监控看图](/cloudwatch/use/start/pictures.md)
     * [创建资源分组](/cloudwatch/use/start/groups.md)
@@ -96,15 +96,15 @@
     * [云数据仓库 MAXIR DPS](/cloudwatch/metric/maxirdps.md)
     * [应用仓库加速](/cloudwatch/metric/uaaa.md)
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
-  * 监控代理（UboltAgent）
-    * Agent安装指南
-      * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
-      * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
-    * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
-    * 支持的机型列表
-      * [CPU云主机](cloudwatch\ublotagent\CPUHostImageList.md)
-      * [GPU云主机](cloudwatch\ublotagent\GPUHostTypeList.md)
-      * [裸金属云主机](cloudwatch\ublotagent\GPUPHostTypeList.md)
+* 监控代理（UboltAgent）
+  * Agent安装指南
+    * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
+    * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
+  * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
+  * 支持的机型列表
+    * [CPU云主机](cloudwatch\ublotagent\CPUHostImageList.md)
+    * [GPU云主机](cloudwatch\ublotagent\GPUHostTypeList.md)
+    * [裸金属云主机](cloudwatch\ublotagent\GPUPHostTypeList.md)
 * [FAQ](/cloudwatch/FAQ.md)
 * [词汇表](/cloudwatch/_glossary.md)
 

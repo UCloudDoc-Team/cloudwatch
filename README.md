@@ -39,9 +39,13 @@
 
 ## 监控代理（UboltAgent）
 * Agent安装指南
-  * [UboltAgent Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
+
+  <!-- [UboltAgent Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)-->
+
   * [UBoltAgent Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
+
 * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
+
 * 支持的机型列表
   * [支持的CPU云主机镜像](cloudwatch\ublotagent\CPUHostImageList.md)
   * [支持的GPU云主机机型](cloudwatch\ublotagent\GPUHostList.md)

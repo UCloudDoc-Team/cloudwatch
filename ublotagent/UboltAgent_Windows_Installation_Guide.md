@@ -11,7 +11,7 @@ UboltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
 
 - 安装和卸载时，都需要使用具有“管理员”权限的账户（如 Administrator 用户）登录 Windows 云主机。
 > **注意：**  
-> 安装新版本 UboltAgent，会卸载历史安装的版本。
+> 安装新版本 UboltAgent，会卸载历史安装的版本。   
 > 不同操作系统支持版本请参考 [支持的CPU 云主机镜像列表](cloudwatch\ublotagent\CPUHostImageList.md)。
 ---
 

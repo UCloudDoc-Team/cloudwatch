@@ -11,9 +11,9 @@
 - 获取 UBoltAgent 安装包的命令需要在 UCloud 云主机中执行，否则无法正常下载。
 - 为保证监控数据正常上报，云主机操作系统内部需放行TCP 协议的8088端口
 - 若 SELinux 为严格模式，请将 `/etc/selinux/config` 文件中的 `SELINUX=disabled`，并重启服务器以生效。
-- 不同操作系统支持版本请参考镜像列表。
-- GPU 云主机支持机型请参考机型列表。
-- 裸金属服务器支持机型请参考机型列表。
+- 不同操作系统支持版本请参考 [镜像列表](cloudwatch\ublotagent\CPUHostImageList.md)。
+- GPU 云主机支持机型请参考[机型列表](\cloudwatch\ublotagent\GPUHostTypeList.md)。
+- 裸金属服务器支持机型请参考[机型列表](\cloudwatch\ublotagent\GPUPHostTypeList.md)。
 
 ---
 
@@ -115,7 +115,7 @@ systemctl status uboltagent
 
 ---
 
-## 卸载 UBoltAgent
+## Linux 卸载
 
 1. 执行以下命令进行卸载：
 
@@ -135,7 +135,7 @@ ps -ef | grep uboltagent
 
 ---
 
-## ⚠️ 注意事项
+## 注意事项
 
 1. **防火墙和安全组**：
    确保防火墙和安全组设置允许云主机访问监控服务器的地址。

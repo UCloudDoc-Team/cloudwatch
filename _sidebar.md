@@ -97,14 +97,14 @@
     * [应用仓库加速](/cloudwatch/metric/uaaa.md)
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
 * 监控代理（UboltAgent）
-  * Agent安装指南
+  * 安装指南
     * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
     * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
   * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
   * 支持的机型列表
-    * [CPU云主机](cloudwatch\ublotagent\CPUHostImageList.md)
-    * [GPU云主机](cloudwatch\ublotagent\GPUHostTypeList.md)
-    * [裸金属云主机](cloudwatch\ublotagent\GPUPHostTypeList.md)
+    * [CPU型云主机](/cloudwatch/ublotagent/CPUHostImageList.md)
+    * [GPU型云主机](/cloudwatch/ublotagent/GPUHostTypeList.md)
+    * [裸金属云主机](/cloudwatch/ublotagent/GPUPHostTypeList.md)
 * [FAQ](/cloudwatch/FAQ.md)
 * [词汇表](/cloudwatch/_glossary.md)
 

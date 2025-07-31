@@ -102,7 +102,7 @@
     * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
   * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
   * 支持的机型列表
-    * [CPU云主机](cloudwatch\ublotagent\CPUHostImageList.md)
+    * [CPU云主机](cloudwatch/ublotagent/CPUHostImageList.md)
     * [GPU云主机](cloudwatch\ublotagent\GPUHostTypeList.md)
     * [裸金属云主机](cloudwatch\ublotagent\GPUPHostTypeList.md)
 * [FAQ](/cloudwatch/FAQ.md)

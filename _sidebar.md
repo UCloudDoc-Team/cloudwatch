@@ -103,8 +103,8 @@
   * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
   * 支持的机型列表
     * [CPU型云主机](/cloudwatch/ublotagent/CPUHostImageList.md)
-    * [GPU型云主机](/cloudwatch/ublotagent/GPUHostTypeList.md)
-    * [裸金属云主机](/cloudwatch/ublotagent/GPUPHostTypeList.md)
+    * [GPU型云主机](/cloudwatch/ublotagent/GPUHostList.md)
+    * [裸金属云主机](/cloudwatch/ublotagent/GPUPHostList.md)
 
 * [FAQ](/cloudwatch/FAQ.md)
 * [词汇表](/cloudwatch/_glossary.md)

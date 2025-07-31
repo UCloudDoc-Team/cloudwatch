@@ -5,3 +5,16 @@
 
 
 ## CPU型
+
+| 裸金属类型   | 机型                | 镜像                                        |
+| :----------- | :------------------ | :------------------------------------------ |
+| 本地盘裸金属 | 基础型-SSD-V5       | uk8s_20_04_performance - Ubuntu_20.04_64_EN |
+| 本地盘裸金属 | 容量型-96T-V6       | uk8s_20_04_performance - Ubuntu_20.04_64_EN |
+| 本地盘裸金属 | 高配SSD型-5.8T-V5   | uk8s_20_04_performance - Ubuntu_20.04_64_EN |
+| 本地盘裸金属 | 容量型-576T-V6      | uk8s_20_04_performance - Ubuntu_20.04_64_EN |
+| 本地盘裸金属 | NVMe专用型-51.2-V5  | Ubuntu 22.04 64 EN 25G - Ubuntu 22.04 64 EN |
+| 本地盘裸金属 | 高配容量型-192T-V6  | uk8s_20_04_performance - Ubuntu_20.04_64_EN |
+| 本地盘裸金属 | 高主频型-SSD-V5     | uk8s_20_04_performance - Ubuntu_20.04_64_EN |
+| 云盘裸金属   | 裸金属计算型.A2.M10 | Ubuntu20.04 64 EN BM2                       |
+| 云盘裸金属   | 裸金属计算型.I7.M7  | Ubuntu20.04 64 EN BM2                       |
+| 云盘裸金属   | 裸金属计算型.I7.M10 | Ubuntu20.04 64 EN BM2                       |

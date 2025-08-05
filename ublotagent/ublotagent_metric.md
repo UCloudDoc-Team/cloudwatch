@@ -63,7 +63,7 @@
 |cloudwatch_uphost_load_avg5m|LoadAverage 5min|无|-|系统过去5分钟的平均负载。<br>通过读取/proc/loadavg中的值得到|不支持|
 |cloudwatch_uphost_load_avg15m|LoadAverage 15min|无|-|系统过去15分钟的平均负载。<br>通过读取/proc/loadavg中的值得到|不支持|
 |cloudwatch_uphost_mem_usage|内存使用率|%|-|系统内存使用百分比。<br>通过读取/proc/meminfo中的数据并计算得到：(Total - Free - Buffers - Cached - Sreclaimable) / Total * 100|系统内存使用百分比。<br>通过调用Windows API：GlobalMemoryStatusEx，从返回结构中取dwMemoryLoad字段值得到|
-|cloudwatch_uphost_mem_free|空闲内存量|MB|-|空闲的物理内存大小。<br>通过读取/proc/meminfo中的MemFree值得到|空闲的物理内存大小。<br>通过调用Windows API：GlobalMemoryStatusEx，从返回结果取ullAvailPhys值得到。|
+|cloudwatch_uphost_mem_free|空闲内存量|KB|-|空闲的物理内存大小。<br>通过读取/proc/meminfo中的MemFree值得到|空闲的物理内存大小。<br>通过调用Windows API：GlobalMemoryStatusEx，从返回结果取ullAvailPhys值得到。|
 |cloudwatch_uphost_mem_available_space|可用内存量|MB|-|可用的物理内存大小。<br>通过读取/proc/meminfo中的MemAvailable值得到(kernel3.14+)|空闲的物理内存大小。<br>通过调用Windows API：GlobalMemoryStatusEx，从返回结果取ullAvailPhys值得到。|
 |cloudwatch_uphost_mem_actualused_space|已用内存量|MB|-|实际使用的物理内存大小。<br>通过读取/proc/meminfo中数据并计算得到：Total - Free - Buffers - Cached - Sreclaimable|实际使用的物理内存大小。<br>通过调用Windows API：GlobalMemoryStatusEx，从返回结果取ullTotalPhys - ullAvailPhys值得到。|
 |cloudwatch_uphost_process_count|进程总数|counts|-|系统当前运行的进程总数。<br>通过统计/proc/下存在的进程个数统计|系统当前运行的进程总数。<br>通过调用Widdows API: EnumProcesses列出所有进程列表，再统计存活的进程个数得到。|

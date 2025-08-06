@@ -88,13 +88,14 @@
     * [CPE隧道](/cloudwatch/metric/uwcpetunnel.md)
     * [弹性伸缩](/cloudwatch/metric/uas.md)
     * [高性能文件存储系统](/cloudwatch/metric/upfs.md)
-    * [优睿达](/cloudwatch/metric/ureach.md)
-    * [网络型负载均衡](/cloudwatch/metric/nlb.md)
+    * [优睿达 UReach](/cloudwatch/metric/ureach.md) 
+    * [网络型负载均衡 NLB](/cloudwatch/metric/nlb.md)
     * [NLB监听器](/cloudwatch/metric/nls.md)
     * [云数据仓库 MAXIR](/cloudwatch/metric/maxir.md)
     * [云数据仓库向量版 MAXIR Vector](/cloudwatch/metric/maxirvector.md)
     * [云数据仓库 MAXIR DPS](/cloudwatch/metric/maxirdps.md)
-    * [应用仓库加速](/cloudwatch/metric/uaaa.md)
+    * [云数据仓库敏捷版 MAXIR Lite](/cloudwatch/metric/maxirlite.md)
+    * [应用仓库加速 UAAA](/cloudwatch/metric/uaaa.md)
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
 * 监控代理（UboltAgent）
   * 安装指南

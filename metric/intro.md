@@ -67,5 +67,6 @@
         * [云数据仓库 MAXIR](/cloudwatch/metric/maxir.md)
         * [云数据仓库向量版 MAXIR Vector](/cloudwatch/metric/maxirvector.md)
         * [云数据仓库 MAXIR DPS](/cloudwatch/metric/maxirdps.md)
+        * [云数据仓库敏捷版 MAXIR Lite](/cloudwatch/metric/maxirlite.md)
         * [应用仓库加速](/cloudwatch/metric/uaaa.md)
         * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)

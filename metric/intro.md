@@ -1,6 +1,6 @@
 # 产品概览
-| 产品中文名称                                                 | 产品唯一标识(ProductKey) | 产品ID |
-| ------------------------------------------------------------ | ------------------------ | ------ |
+| 产品中文名称   | 产品唯一标识(ProductKey) | 产品ID |
+| :-----------------| :------------------------ |: ------ |
 | [云主机](/cloudwatch/metric/uhost.md)                        | uhost                    | 1      |
 | [云硬盘](/cloudwatch/metric/udisk.md)                        | udisk                    | 3      |
 | [共享带宽](/cloudwatch/metric/sharebandwidth.md)             | sharebandwidth           | 5      |

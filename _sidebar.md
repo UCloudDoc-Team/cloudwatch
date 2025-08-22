@@ -1,18 +1,22 @@
 
 * [概览](/cloudwatch/README.md)
+
 * 动态与公告 
 
   * [产品公告](/cloudwatch/notice/announcement.md)
   * [产品更新动态](/cloudwatch/notice/Renewal.md)
+  
 * 了解   
 
   * [什么是云监控](/cloudwatch/introduction/intro.md)
   * [功能特性](/cloudwatch/introduction/function.md)
   * [产品优势](/cloudwatch/introduction/advantage.md)
   * [应用场景](/cloudwatch/introduction/use.md)
+  
 * 产品计费
     * [计费概述](/cloudwatch/introduction/billway.md)
-    * [产品定价](/cloudwatch/introduction/snsbillservice.md)
+    * [产品定价](/cloudwatch/introduction/price.md)
+    
 * 使用
 
   * 快速入门
@@ -97,6 +101,7 @@
     * [云数据仓库敏捷版 MAXIR Lite](/cloudwatch/metric/maxirlite.md)
     * [应用仓库加速 UAAA](/cloudwatch/metric/uaaa.md)
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
+  
 * 监控代理（UboltAgent）
   * 安装指南
     
@@ -110,5 +115,6 @@
     * [裸金属云主机](/cloudwatch/ublotagent/GPUPHostList.md)
   
 * [FAQ](/cloudwatch/FAQ.md)
+
 * [词汇表](/cloudwatch/_glossary.md)
 

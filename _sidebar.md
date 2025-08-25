@@ -15,7 +15,7 @@
   
 * 产品计费
     * [计费概述](/cloudwatch/introduction/billway.md)
-    * [产品定价](/cloudwatch/introduction/price.md)
+    * [产品定价](/cloudwatch/introduction/snsbillservice.md)
     
 * 使用
 

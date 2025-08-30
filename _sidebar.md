@@ -102,7 +102,7 @@
     * [应用仓库加速 UAAA](/cloudwatch/metric/uaaa.md)
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
   
-* 监控代理（UboltAgent）
+* 监控代理
   * 安装指南
     * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
     * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)

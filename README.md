@@ -39,7 +39,7 @@
 
 ## 监控代理（UboltAgent）
 * Agent安装指南
-* [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
+  * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
   * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
 
 * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)

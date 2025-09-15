@@ -20,3 +20,5 @@
 | 专线虚拟路由器 | uplvr        | uplvr_physicalport_out_bwutil   | 物理端口出向带宽使用率   | %    |      |
 | 专线虚拟路由器 | uplvr        | uplvr_physicalport_in_bw        | 物理端口入向带宽         | bps  |      |
 | 专线虚拟路由器 | uplvr        | uplvr_physicalport_out_bw       | 物理端口出向带宽         | bps  |      |
+| 专线虚拟路由器 | uplvr        | uplvr_flowpack_out_traffic      | 出云带宽包出云流量       | Byte |      |
+| 专线虚拟路由器 | uplvr        | uplvr_flowpack_out_pktloss      | 出云流量包出云丢包数     | 个/s |      |

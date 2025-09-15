@@ -74,4 +74,7 @@
 | [IPv6地址](/cloudwatch/metric/ipv6address.md)                | ipv6                     | 419    |
 | [经济型SSD云盘](/cloudwatch/metric/udisk_essd.md)            | udisk_essd               | 421    |
 | [经济型RSSD云盘](/cloudwatch/metric/udisk_erssd.md)          | udisk_erssd              | 422    |
+| [虚拟端口 UVP](/cloudwatch/metric/uvp.md) | uvp | 430 |
+| [虚拟通道 UVC](/cloudwatch/metric/uvc.md) | uvc | 431 |
 | [云数据仓库敏捷版 MAXIR Lite](/cloudwatch/metric/maxirlite.md) | maxirlite                | 432    |
+| [UHadoop Flink 组件](/cloudwatch/metric/uhadoopflink.md) | uhadoopflink | 435 |

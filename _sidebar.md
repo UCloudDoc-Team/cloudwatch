@@ -101,6 +101,9 @@
     * [云数据仓库敏捷版 MAXIR Lite](/cloudwatch/metric/maxirlite.md)
     * [应用仓库加速 UAAA](/cloudwatch/metric/uaaa.md)
     * [分布式数据库 TiDB Cluster](/cloudwatch/metric/tidbcluster.md)
+    * [UHadoop Flink 组件](cloudwatch/metric/uhadoopflink.md)
+    * [虚拟端口 UVP](cloudwatch/metric/uvp.md)
+    * [虚拟通道 UVC](cloudwatch/metric/uvc.md)
   
 * 监控代理
   * 安装指南

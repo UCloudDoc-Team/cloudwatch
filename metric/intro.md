@@ -34,6 +34,7 @@
 | [全球动态加速](/cloudwatch/metric/pathx.md)                  | pathx                    | 174    |
 | [SSD云盘](/cloudwatch/metric/udiskssd.md)                    | udiskssd                 | 185    |
 | [RocketMQ消息队列](/cloudwatch/metric/urocketmq.md)          | urocketmq                | 222    |
+| [容器云 Uk8s](/cloudwatch/metric/uk8s.md) | uk8s | 228 |
 | [IPv6转换](/cloudwatch/metric/nat64.md)                      | nat64                    | 233    |
 | [RSSD云盘](/cloudwatch/metric/udiskrssd.md)                  | udiskrssd                | 243    |
 | [AnycastEIP](/cloudwatch/metric/anycasteip.md)               | anycasteip               | 245    |

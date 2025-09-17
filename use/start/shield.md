@@ -7,7 +7,6 @@
 1. 登录UCloud控制台-资源监控
 2. 在顶部导航栏选择告警管理  > 告警屏蔽，进入告警屏蔽列表页。
 3. 在告警屏蔽页面，选择项目，单击新建创建告警屏蔽。
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E5%B1%8F%E8%94%BD1.png)
 
 5. 在新建告警屏蔽页面，根据界面提示配置参数。
 6. 配置参数如下：
@@ -22,8 +21,4 @@
 | 执行时间*   | 屏蔽将在指定时间范围内生效   |
 | 策略名称*   | 自定义输入                   |
 
-
-7. 在新建告警屏蔽页面右下角，单机提交，完成告警屏蔽创建。
-
-
-   ![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%96%B0%E5%BB%BA%E5%91%8A%E8%AD%A6%E5%B1%8F%E8%94%BD2.png)
+6. 在新建告警屏蔽页面右下角，点击提交，完成告警屏蔽创建。

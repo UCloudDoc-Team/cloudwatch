@@ -6,5 +6,3 @@
 1. 登录UCloud控制台-资源监控。
 2. 在顶部导航栏选择告警管理  > 告警记录，进入告警记录列表页。
 3. 在告警记录页面，用户可以选择项目，并自定义时间范围，默认为最近1小时。
-
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/%E6%9F%A5%E7%9C%8B%E5%91%8A%E8%AD%A6%E8%AE%B0%E5%BD%95.png)

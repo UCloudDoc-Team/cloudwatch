@@ -9,14 +9,7 @@
 2. 在顶部导航栏选择资源分组 ，进入资源分组列表页。
 3. 在资源分组页面，点击新建，进入创建页面。
 
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/6.png)
-
 4. 在创建资源组界面，根据界面提示配置参数。
 5. 完成参数配置后，在创建资源组界面右下角，点击确定，完成资源分组创建。
 
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/7.png)
-
 6. 在资源分组列表页会展现已经创建好的资源组，点击详情可以查看资源组概览及告警记录。
-
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/8.png)
-![Image text](https://github.com/UCloudDoc-Team/cloudwatch/blob/master/images/9.png)

@@ -43,6 +43,18 @@ wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux
 使用内网下载监控组件前，请先登录 Linux 实例执行命令，并确保云服务器使用内网 DNS，否则将无法解析下载地址。  
 若未安装 `wget`，请先安装`wget`或使用 `curl` 命令下载。
 
+**amd64架构:** 
+
+```bash
+curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-amd64.tar.gz
+```
+
+**arm64架构:** 
+
+```bash
+curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-arm64.tar.gz
+```
+
 ---
 
 ### 3.  安装监控组件

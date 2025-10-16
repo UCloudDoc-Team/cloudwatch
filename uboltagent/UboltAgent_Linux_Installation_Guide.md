@@ -11,9 +11,9 @@
 - 获取 UboltAgent 安装包的命令需要在 UCloud 云主机中执行，否则无法正常下载。
 - 为保证监控数据正常上报，云主机操作系统内部需放行TCP 协议的8088端口。
 - 若 SELinux 为严格模式，请将 `/etc/selinux/config` 文件中的 `SELINUX=disabled`，并重启服务器以生效。
-- CPU 云主机不同操作系统支持版本请参考 [镜像列表](cloudwatch\ublotagent\CPUHostImageList.md)。
-- GPU 云主机支持机型请参考[机型列表](cloudwatch\ublotagent\GPUHostList.md)。
-- 裸金属服务器支持机型请参考[机型列表](cloudwatch\ublotagent\GPUPHostList.md)。
+- CPU 云主机不同操作系统支持版本请参考 [镜像列表](cloudwatch\uboltagent\CPUHostImageList.md)。
+- GPU 云主机支持机型请参考[机型列表](cloudwatch\uboltagent\GPUHostList.md)。
+- 裸金属服务器支持机型请参考[机型列表](cloudwatch\uboltagent\GPUPHostList.md)。
 
 ---
 
@@ -42,6 +42,18 @@ wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux
 !> 注意：  
 使用内网下载监控组件前，请先登录 Linux 实例执行命令，并确保云服务器使用内网 DNS，否则将无法解析下载地址。  
 若未安装 `wget`，请先安装`wget`或使用 `curl` 命令下载。
+
+**amd64架构:** 
+
+```bash
+curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-amd64.tar.gz
+```
+
+**arm64架构:** 
+
+```bash
+curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-arm64.tar.gz
+```
 
 ---
 

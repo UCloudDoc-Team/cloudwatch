@@ -107,15 +107,15 @@
     * [容器云 Uk8s](cloudwatch/metric/uk8s.md)
   
 * 监控代理
-  * [了解Ublotagent](/cloudwatch/ublotagent/introduce.md)
+  * [了解Uboltagent](/cloudwatch/uboltagent/introduce.md)
   * 安装指南
-    * [Windows 安装手册](/cloudwatch/ublotagent/UboltAgent_Windows_Installation_Guide.md)
-    * [Linux 安装手册](/cloudwatch/ublotagent/UboltAgent_Linux_Installation_Guide.md)
-  * [查看Agent采集指标](/cloudwatch/ublotagent/ublotagent_metric.md)
+    * [Windows 安装手册](/cloudwatch/uboltagent/UboltAgent_Windows_Installation_Guide.md)
+    * [Linux 安装手册](/cloudwatch/uboltagent/UboltAgent_Linux_Installation_Guide.md)
+  * [查看Agent采集指标](/cloudwatch/uboltagent/uboltagent_metric.md)
   * 支持的机型列表
-    * [CPU型云主机](/cloudwatch/ublotagent/CPUHostImageList.md)
-    * [GPU型云主机](/cloudwatch/ublotagent/GPUHostList.md)
-    * [裸金属云主机](/cloudwatch/ublotagent/GPUPHostList.md)
+    * [CPU型云主机](/cloudwatch/uboltagent/CPUHostImageList.md)
+    * [GPU型云主机](/cloudwatch/uboltagent/GPUHostList.md)
+    * [裸金属云主机](/cloudwatch/uboltagent/GPUPHostList.md)
   
 * [FAQ](/cloudwatch/FAQ.md)
 

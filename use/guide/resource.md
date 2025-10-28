@@ -8,18 +8,18 @@
 2. 在顶部导航栏选择资源分组 ，进入资源分组列表页。
 3. 在资源分组页面，选择项目，单击新建，创建资源分组。
 
-![Image text](images/6.png)
+![Image text](../../images/6.png)
 
 4. 在创建资源组界面，根据界面提示配置参数。
 5. 完成参数配置后，在创建资源组界面右下角，单机确定，完成资源分组创建。
 
-![Image text](images/7.png)
+![Image text](../../images/7.png)
 
 6. 在资源分组列表页会展现已经创建好的资源组，单机详情可以查看资源组概览及告警记录。
 
-![Image text](images/8.png)
+![Image text](../../images/8.png)
 
-![Image text](images/9.png)
+![Image text](../../images/9.png)
 
 ## 复制资源分组
 
@@ -32,7 +32,7 @@
 3. 在资源分组页面，选择需要修改的资源组，单击更多 > 复制。
 
 
-![Image text](images/12.png)
+![Image text](../../images/12.png)
 
 4. 完成资源组复制。
 
@@ -48,11 +48,11 @@
 3. 在资源分组页面，选择需要修改的资源组，单击编辑。
    
 
-![Image text](images/10.png)
+![Image text](../../images/10.png)
 
 4. 进入编辑资源组界面，可以修改资源组名称及资源组内对应资源，可以删除资源或添加资源。
 
-![Image text](images/11.png)
+![Image text](../../images/11.png)
 
 5. 完成参数修改后，在编辑资源组界面右下角，单机确定，完成资源分组修改。
 
@@ -67,8 +67,8 @@
 2. 在顶部导航栏选择资源分组 ，进入资源分组列表页。
 3. 在资源分组页面，选择需要修改的资源组，单击更多 > 删除。
 
-![Image text](images/13.png)
+![Image text](../../images/13.png)
 
 4. 点击确定，完成资源组删除。
 
-![Image text](images/14.png)
+![Image text](../../images/14.png)

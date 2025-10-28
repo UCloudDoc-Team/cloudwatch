@@ -11,9 +11,9 @@
 - 获取 UboltAgent 安装包的命令需要在 UCloud 云主机中执行，否则无法正常下载。
 - 为保证监控数据正常上报，云主机操作系统内部需放行TCP 协议的8088端口。
 - 若 SELinux 为严格模式，请将 `/etc/selinux/config` 文件中的 `SELINUX=disabled`，并重启服务器以生效。
-- CPU 云主机不同操作系统支持版本请参考 [镜像列表](cloudwatch\uboltagent\CPUHostImageList.md)。
-- GPU 云主机支持机型请参考[机型列表](cloudwatch\uboltagent\GPUHostList.md)。
-- 裸金属服务器支持机型请参考[机型列表](cloudwatch\uboltagent\GPUPHostList.md)。
+- CPU 云主机不同操作系统支持版本请参考 [镜像列表](cloudwatch/uboltagent/CPUHostImageList.md)。
+- GPU 云主机支持机型请参考[机型列表](cloudwatch/uboltagent/GPUHostList.md)。
+- 裸金属服务器支持机型请参考[机型列表](cloudwatch/uboltagent/GPUPHostList.md)。
 
 ---
 
@@ -103,7 +103,7 @@ ps -ef | grep uboltagent
 
 若执行结果如下图所示，说明 UboltAgent 相关进程已正常启动，则已经成功安装 UboltAgent
 
-![](images\Linux-验证进程启动.png)
+![](../images/Linux-验证进程启动.png)
 
 #### 查看服务状态
 
@@ -117,13 +117,13 @@ systemctl status uboltagent
 
 若执行结果如下图所示，说明 UboltAgent 服务状态正常
 
-![](images\Linux-验证服务状态.png)
+![](../images/Linux-验证服务状态.png)
 
 #### 登录云监控确认
 
 等待约5分钟，进入云监控 CloudWatch->产品监控->点击资源详情，查看相关指标图表数据是否正常展示
 
-![](images\控制台确认Windows数据上报.png)
+![](../images/控制台确认Windows数据上报.png)
 
 ---
 
@@ -143,7 +143,7 @@ ps -ef | grep uboltagent
 
 若无相关进程，说明已卸载成功。
 
-![](images\Linux-验证服务卸载.png)
+![](../images/Linux-验证服务卸载.png)
 
 ---
 

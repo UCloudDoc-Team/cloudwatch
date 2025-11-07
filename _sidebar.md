@@ -1,22 +1,18 @@
 
 * [概览](/cloudwatch/README.md)
-
 * 动态与公告 
 
   * [产品公告](/cloudwatch/notice/announcement.md)
   * [产品更新动态](/cloudwatch/notice/Renewal.md)
-  
 * 了解   
 
   * [什么是云监控](/cloudwatch/introduction/intro.md)
   * [功能特性](/cloudwatch/introduction/function.md)
   * [产品优势](/cloudwatch/introduction/advantage.md)
   * [应用场景](/cloudwatch/introduction/use.md)
-  
 * 产品计费
     * [计费概述](/cloudwatch/introduction/billway.md)
     * [产品定价](/cloudwatch/introduction/snsbillservice.md)
-    
 * 使用
 
   * 快速入门
@@ -105,7 +101,6 @@
     * [虚拟端口 UVP](cloudwatch/metric/uvp.md)
     * [虚拟通道 UVC](cloudwatch/metric/uvc.md)
     * [容器云 Uk8s](cloudwatch/metric/uk8s.md)
-  
 * 监控代理
   * [了解Uboltagent](/cloudwatch/uboltagent/introduce.md)
   * 安装指南
@@ -116,8 +111,7 @@
     * [CPU型云主机](/cloudwatch/uboltagent/CPUHostImageList.md)
     * [GPU型云主机](/cloudwatch/uboltagent/GPUHostList.md)
     * [裸金属云主机](/cloudwatch/uboltagent/GPUPHostList.md)
-  
+  * [版本发布说明](cloudwatch\uboltagent\release-notes.md)
 * [FAQ](/cloudwatch/FAQ.md)
-
 * [词汇表](/cloudwatch/_glossary.md)
 

@@ -40,7 +40,7 @@
 ## 监控代理
 
 * [了解Uboltagent](/cloudwatch/uboltagent/introduce.md)
-  
+
 * Agent安装指南
   * [Windows 安装手册](/cloudwatch/uboltagent/UboltAgent_Windows_Installation_Guide.md)
   * [Linux 安装手册](/cloudwatch/uboltagent/UboltAgent_Linux_Installation_Guide.md)
@@ -51,6 +51,7 @@
   * [支持的CPU云主机镜像](cloudwatch\uboltagent\CPUHostImageList.md)
   * [支持的GPU云主机机型](cloudwatch\uboltagent\GPUHostList.md)
   * [支持的裸金属云主机机型](cloudwatch\uboltagent\GPUPHostList.md)
+* [版本发布说明](cloudwatch\uboltagent\release-notes.md)
 
 [FAQ](/cloudwatch/FAQ.md)
 

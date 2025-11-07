@@ -30,13 +30,13 @@
 **amd64 架构：**
 
 ```bash
-wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-amd64.tar.gz
+wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.2-linux-amd64.tar.gz
 ```
 
 **arm64 架构：**
 
 ```bash
-wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-arm64.tar.gz
+wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.2-linux-arm64.tar.gz
 ```
 
 !> 注意：  
@@ -46,13 +46,13 @@ wget http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux
 **amd64架构:** 
 
 ```bash
-curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-amd64.tar.gz
+curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.2-linux-amd64.tar.gz
 ```
 
 **arm64架构:** 
 
 ```bash
-curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-linux-arm64.tar.gz
+curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.2-linux-arm64.tar.gz
 ```
 
 ---
@@ -64,13 +64,13 @@ curl -O http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-li
 **amd64 架构：**
 
 ```bash
-tar -zxf uboltagent-v1.0.0-linux-amd64.tar.gz
+tar -zxf uboltagent-v1.0.2-linux-amd64.tar.gz
 ```
 
 **arm64 架构：**
 
 ```bash
-tar -zxf uboltagent-v1.0.0-linux-arm64.tar.gz
+tar -zxf uboltagent-v1.0.2-linux-arm64.tar.gz
 ```
 
 #### 进入安装目录并授权脚本权限

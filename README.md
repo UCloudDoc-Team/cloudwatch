@@ -48,10 +48,10 @@
 * [查看Agent采集指标](/cloudwatch/uboltagent/uboltagent_metric.md)
 
 * 支持的机型列表
-  * [支持的CPU云主机镜像](cloudwatch\uboltagent\CPUHostImageList.md)
-  * [支持的GPU云主机机型](cloudwatch\uboltagent\GPUHostList.md)
-  * [支持的裸金属云主机机型](cloudwatch\uboltagent\GPUPHostList.md)
-* [版本发布说明](cloudwatch\uboltagent\release-notes.md)
+  * [支持的CPU云主机镜像](/cloudwatch/uboltagent/CPUHostImageList.md)
+  * [支持的GPU云主机机型](/cloudwatch/uboltagent/GPUHostList.md)
+  * [支持的裸金属云主机机型](/cloudwatch/uboltagent/GPUPHostList.md)
+* [版本发布说明](/cloudwatch/uboltagent/release-notes.md)
 
 [FAQ](/cloudwatch/FAQ.md)
 

@@ -112,7 +112,7 @@
     * [CPU型云主机](/cloudwatch/uboltagent/CPUHostImageList.md)
     * [GPU型云主机](/cloudwatch/uboltagent/GPUHostList.md)
     * [裸金属云主机](/cloudwatch/uboltagent/GPUPHostList.md)
-  * [版本发布说明](cloudwatch\uboltagent\release-notes.md)
+  * [版本发布说明](cloudwatch/uboltagent/release-notes.md)
 * [FAQ](/cloudwatch/FAQ.md)
 * [词汇表](/cloudwatch/_glossary.md)
 

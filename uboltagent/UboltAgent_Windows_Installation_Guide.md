@@ -21,22 +21,27 @@ UboltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
 
 登录云主机后，使用内网浏览器访问安装包下载路径：下载并保存安装包。注意由于浏览器安全设置，可能会有文件安全提示，请信任并下载保存。
 
+**操作系统windows2016+**
+
 ```
-http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-amd64.exe
+http://umon.api.service.ucloud.cn/static/cloudwatch/Uboltagent-v1.3.0-windows-amd64.exe
 ```
+
+**操作系统windows2012及以下版本**
+
+```
+http://umon.api.service.ucloud.cn/static/cloudwatch/Uboltagent-v1.3.0-windows-amd64-compat.exe
+```
+
 > **注意：**  
 > 使用内网下载监控组件前，请登录 Windows 实例执行命令，并且确保云服务器为内网DNS，否则将无法解析监控组件的下载地址
 #### 执行安装
 
-进入安装包存放目录，找到下载的安装包：  `uboltagent-v1.0.0-windows-amd64.exe`，双击该文件开始安装过程，按照安装向导提示完成安装。
+进入安装包存放目录，找到下载的安装包：  `Uboltagent-v1.3.0-windows-amd64*.exe`，双击该文件开始安装过程，按照安装向导提示完成安装。
 
 ![](../images/Windows安装向导-1.PNG)
 
 ![](../images/Windows安装向导-2.PNG)
-
-![](../images/Windows安装向导-3.PNG)
-
-![](../images/Windows安装向导-4.PNG)
 
 #### 确认安装状态
 
@@ -50,7 +55,7 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 
    ![](../images/打开服务管理器2.png)
 
-3. 找到名为 `UCloudBoltAgent`  的服务，确认其状态为“正在运行”。
+3. 找到名为 `UBoltAgent`  的服务，确认其状态为“正在运行”。
 
    ![](../images/服务管理器找到服务.png)
 
@@ -78,9 +83,8 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.0.0-windows-am
 
    ![](../images/Windows卸载步骤2.png)
 
-   ![](../images/Windows卸载步骤3.png)
+   
 
-   ![](../images/Windows卸载步骤4.png)
 
 ---
 

@@ -55,7 +55,7 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/Uboltagent-v1.3.0-windows-am
 
    ![](../images/打开服务管理器2.png)
 
-3. 找到名为 `UCloudBoltAgent`  的服务，确认其状态为“正在运行”。
+3. 找到名为 `UBoltAgent`  的服务，确认其状态为“正在运行”。
 
    ![](../images/服务管理器找到服务.png)
 

@@ -79,7 +79,7 @@ http://umon.api.service.ucloud.cn/static/cloudwatch/uboltagent-v1.3.0-windows-am
 
    ![](../images/Windows卸载步骤1.png)
 
-2. 找到 **UCloudBoltAgent** 程序，点击“卸载”，完成卸载操作。
+2. 找到 **UBoltAgent** 程序，点击“卸载”，完成卸载操作。
 
    ![](../images/Windows卸载步骤2.png)
 

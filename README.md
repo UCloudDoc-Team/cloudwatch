@@ -39,7 +39,7 @@
 
 ## 监控代理
 
-* [了解Uboltagent](/cloudwatch/uboltagent/introduce.md)
+* [了解UBoltAgent](/cloudwatch/uboltagent/introduce.md)
 
 * Agent安装指南
   * [Windows 安装手册](/cloudwatch/uboltagent/UboltAgent_Windows_Installation_Guide.md)

@@ -1,7 +1,7 @@
 
-# UboltAgent Windows 安装手册
+# UBoltAgentWindows 安装手册
 
-UboltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
+UBoltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
 
 ---
 
@@ -11,7 +11,7 @@ UboltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
 
 - 安装和卸载时，都需要使用具有“管理员”权限的账户（如 Administrator 用户）登录 Windows 云主机。
 > **注意：**  
-> 安装新版本 UboltAgent，会卸载历史安装的版本。   
+> 安装新版本 UBoltAgent，会卸载历史安装的版本。   
 > 不同操作系统支持版本请参考 [支持的CPU 云主机镜像列表](cloudwatch/uboltagent/CPUHostImageList.md)。
 ---
 
@@ -19,7 +19,7 @@ UboltAgent Windows 版本支持 Windows 镜像的监控信息采集和上报。
 
 #### 登录云主机
 
-登录云主机后，使用内网浏览器访问安装包下载路径：下载并保存安装包。注意由于浏览器安全设置，可能会有文件安全提示，请信任并下载保存。
+登录云主机后，使用浏览器访问安装包下载路径：下载并保存安装包。注意由于浏览器安全设置，可能会有文件安全提示，请信任并下载保存。
 
 **操作系统windows2016+**
 

@@ -4,7 +4,7 @@
 
 ### 前提条件
 
-在开始使用前，请确保您的目标云主机上已安装并运行 **uboltagent**（V1.1.0版本及以上版本支持）。
+在开始使用前，请确保您的目标云主机上已安装并运行 **uboltagent**（V1.3.0版本及以上版本支持）。
 
 > **注意**：未安装 agent 的主机将无法采集进程数据，在查询监控数据时会看到相应提示。    
 > 安装指南：[uboltagent Linux 安装手册](/cloudwatch/uboltagent/UboltAgent_Linux_Installation_Guide.md)

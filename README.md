@@ -29,11 +29,13 @@
   * [查看告警记录](/cloudwatch/use/start/records.md)
   * [新建告警策略](/cloudwatch/use/start/policy.md)
   * [新建告警屏蔽](/cloudwatch/use/start/shield.md)
+  * [进程监控](/cloudwatch/use/start/processmonitor.md)
 * 操作指南
   * [监控查询](/cloudwatch/use/guide/monitoring.md)
   * [资源管理](/cloudwatch/use/guide/resource.md)
   * [告警管理](/cloudwatch/use/guide/alarm.md)
   * [通知人管理](/cloudwatch/use/guide/notify.md)
+  * [进程监控](/cloudwatch/use/start/processmonitor.md)
 * 监控指标索引
   * [产品概览](/cloudwatch/metric/intro.md)
 

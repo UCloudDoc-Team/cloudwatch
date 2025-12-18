@@ -36,6 +36,7 @@
   * [告警管理](/cloudwatch/use/guide/alarm.md)
   * [通知人管理](/cloudwatch/use/guide/notify.md)
   * [进程监控](/cloudwatch/use/start/processmonitor.md)
+  * [通知模板](/cloudwatch/use/guide/notifytemplate.md)
 * 监控指标索引
   * [产品概览](/cloudwatch/metric/intro.md)
 

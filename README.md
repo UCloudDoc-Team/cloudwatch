@@ -30,6 +30,7 @@
   * [新建告警策略](/cloudwatch/use/start/policy.md)
   * [新建告警屏蔽](/cloudwatch/use/start/shield.md)
   * [进程监控](/cloudwatch/use/start/processmonitor.md)
+  * [一键告警](/cloudwatch/use/start/alarmOneClickPolicy.md)
 * 操作指南
   * [监控查询](/cloudwatch/use/guide/monitoring.md)
   * [资源管理](/cloudwatch/use/guide/resource.md)

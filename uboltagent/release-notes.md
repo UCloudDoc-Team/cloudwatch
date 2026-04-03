@@ -2,6 +2,14 @@
 
 本文为您介绍监控代理（UBoltAgent）的版本发布信息。
 
+## 1.3.2
+
+| 分类     | 说明                                                         |
+| -------- | ------------------------------------------------------------ |
+| 发布时间 | 2026-4-2                                                     |
+| 新特性   | 新特性：<br/>1. 支持A800 GPU云主机采集RDMA网卡流量数据（需更改配置启动采集）<br /> • cloudwatch_rdma_port_xmit_rate（RDMA端口出速率）<br/> • cloudwatch_rdma_port_rcv_rate（RDMA端口入速率）<br/> • cloudwatch_rdma_port_xmit_packets（RDMA端口出包量）<br/> • cloudwatch_rdma_port_rcv_packets（RDMA端口入包量）<br/> |
+| 问题修复 | 修复linux安装脚本在某些环境下因grep查询异常导致的无法安装问题 |
+
 ## 1.3.0
 
 | 分类     | 说明                                                         |

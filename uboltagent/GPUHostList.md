@@ -8,6 +8,7 @@ UBoltAgent支持GPU云主机机型及其对应的操作系统、CPU架构、nvid
 | 高性价比显卡7       | Ubuntu 22.04 64位 | x86_64  | nvidia570.153.02    |
 | A800                | Ubuntu 22.04 64位 | x86_64  | nvidia550.144.03    |
 | H20                 | Ubuntu 22.04 64位 | x86_64  | nvidia550.90.07     |
+| 高性价比显卡6 | Ubuntu 24.04 64位 | x86_64 | nvidia570.133.07 |
 | 高性价比显卡6       | Ubuntu 22.04 64位 | x86_64  | nvidia550.78        |
 | 高性价比显卡6增强型 | Ubuntu 22.04 64位 | x86_64  | nvidia550.78        |
 | 高性价比显卡5       | Ubuntu 22.04 64位 | x86_64  | nvidia550.78        |

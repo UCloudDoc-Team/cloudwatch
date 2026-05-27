@@ -107,6 +107,8 @@
     * [虚拟通道 UVC](cloudwatch/metric/uvc.md)
     * [容器云 Uk8s](cloudwatch/metric/uk8s.md)
   * [回调接口](/cloudwatch/use/webhook.md)
+* 最佳实践
+  * [Grafana 插件接入](/cloudwatch/best-practice/grafana.md)
 * 监控代理
   * [了解UBoltAgent](/cloudwatch/uboltagent/introduce.md)
   * 安装指南

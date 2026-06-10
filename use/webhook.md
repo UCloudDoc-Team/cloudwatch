@@ -72,7 +72,7 @@
 | AlarmTime    | 告警触发时间           |
 | value        | 当前告警值             |
 | ValueUnit    | 单位                   |
-| RecoveryTime | 告警恢复时间 ，若恢复时间不为空，则代表该条推送为恢复告警          |
+| RecoveryTime | 告警恢复时间 ，若恢复时间不为0，则代表该条推送为恢复告警          |
 | Duration     | 告警持续时长，单位：秒 |
 | StrategyId   | 告警策略ID             |
 | content      | 告警内容               |

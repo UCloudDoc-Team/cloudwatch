@@ -33,7 +33,8 @@
     RecoveryTime : 0，
     Duration: 123 ,
     StrategyId: 383125466474888,
-    content："【UCloud】告警:北京二 2023-08-05 11:30:04 uhost(ID:uhost-xxxx-0.0.0.0-)连接数(330.00个)<6000个(优刻得公司)"
+    content："【UCloud】告警:北京二 2023-08-05 11:30:04 uhost(ID:uhost-xxxx-0.0.0.0-)连接数(330.00个)<6000个(优刻得公司)",
+    Level："P2"
 }
 ```
 
@@ -53,7 +54,8 @@
     RecoveryTime : 1458733318，
     Duration: 123,
     StrategyId:383125466474888,
-    content："【UCloud】告警恢复:北京二 2023-08-05 11:30:04 uhost(ID:uhost-xxxx-0.0.0.0-)连接数(330.00个)<6000个(优刻得公司)"
+    content："【UCloud】告警恢复:北京二 2023-08-05 11:30:04 uhost(ID:uhost-xxxx-0.0.0.0-)连接数(330.00个)<6000个(优刻得公司)",
+    Level："P2"
 }
 ```
 
@@ -70,10 +72,11 @@
 | AlarmTime    | 告警触发时间           |
 | value        | 当前告警值             |
 | ValueUnit    | 单位                   |
-| RecoveryTime | 告警恢复时间           |
+| RecoveryTime | 告警恢复时间 ，若恢复时间不为空，则代表该条推送为恢复告警          |
 | Duration     | 告警持续时长，单位：秒 |
 | StrategyId   | 告警策略ID             |
 | content      | 告警内容               |
+| Level        | 告警等级               |
 
 **Response**
 
